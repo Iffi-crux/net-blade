@@ -72,8 +72,8 @@ root@kali:~$ python3 net-blade.py capture.pcap
 [*] Hunting for sensitive data...
 
 [CREDENTIAL] Found: admin:password123 (Packet #45)
-[DNS EXFIL]  Suspicious Query: 5fb00e942-37cb.pentesterlab.com
-[ICMP TUNNEL] Data: ecf76ba6-68c7-4039-9b9b-407167fe2757
+[DNS EXFIL]  Suspicious Query: --------------
+[ICMP TUNNEL] Data: ---------------------------
 [FILE FOUND] ZIP Header Detected in TCP Stream.
 
 
